@@ -9,6 +9,19 @@ package practice01;
 public class PTra01_06 {
 	public static void main(String[] args) {
 
+	
+		String name;
+		
+		name ="中澤宏幸";
+		
+		   System.out.println(name); 
+		
+		
+		
+		
+		
+		
+		
 		// ★ 文字列を格納する変数 str を宣言してください
 
 
