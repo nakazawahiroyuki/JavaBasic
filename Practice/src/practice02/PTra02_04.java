@@ -9,7 +9,7 @@ package practice02;
 public class PTra02_04 {
 	public static void main(String[] args) {
 		int d_num = 50;
-		   System.out.println(d_num); 
+		   System.out.println(d_num*2); 
 		// ★ d_num と d_num の合計をd_numに代入してください
 
 		// ★ d_numの値を出力してください。

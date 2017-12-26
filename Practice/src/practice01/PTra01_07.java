@@ -24,7 +24,7 @@ public class PTra01_07 {
         bo=true;
         by=1;
         s=1;
-        c='正';
+        c=1;
         i=1;
         l=10000;
         f=1.1F;

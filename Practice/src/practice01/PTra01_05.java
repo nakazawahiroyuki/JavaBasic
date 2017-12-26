@@ -12,7 +12,7 @@ public class PTra01_05 {
 		char c;
 		c ='R';
 		
-		   System.out.println('R'); 
+		   System.out.println(c); 
 		
 		
 		

@@ -40,7 +40,7 @@ public class PTra03_05 {
 		       }else if(num>=75) {
 		    	   System.out.println("雨が降る確率が高いです");
 		    	   
-		       }if(num<=74) {
+		       }else if(num<=74) {
 		    	   System.out.println("雨が降るかもしれないでしょう");
 		    	   
 		       }

@@ -45,7 +45,7 @@ public class PTra03_09 {
               case 6:
             	  System.out.println("土曜");
             	  break;
-
+                 default:
 
               }
 	        }
